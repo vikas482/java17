@@ -1,4 +1,4 @@
-package animals;
+package lambda.introduction.animals;
 
 public interface CheckTrait {
 
