@@ -1,4 +1,5 @@
-package methodreferences;
+package lambda.introduction.methodreferences
+;
 
 public class MethodReferences {
 	
@@ -23,8 +24,6 @@ public class MethodReferences {
 		
 		MethodReferences.makeSound("classic");		
 
-		Converter methodRef = Math::round;
-		System.out.println(methodRef.round(10.0));
 		
 	}
 		

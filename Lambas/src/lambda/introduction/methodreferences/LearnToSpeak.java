@@ -1,4 +1,4 @@
-package methodreferences;
+package lambda.introduction.methodreferences;
 
 public interface LearnToSpeak {
 

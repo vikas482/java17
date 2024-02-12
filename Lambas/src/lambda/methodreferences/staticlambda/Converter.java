@@ -1,4 +1,4 @@
-package methodreferences;
+package lambda.methodreferences.staticlambda;
 
 public interface Converter {
 
